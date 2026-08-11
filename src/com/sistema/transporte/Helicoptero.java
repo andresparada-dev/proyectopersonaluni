@@ -6,6 +6,6 @@ public class Helicoptero extends VehiculoTerrestre {
 
     @Override
     public void moverse() {
-        System.out.println("El Helicoptero " + marca + " viaja por el Pacífico.");
+        System.out.println("El Helicoptero " + marca + " viaja por el Pacífico");
     }
 }
