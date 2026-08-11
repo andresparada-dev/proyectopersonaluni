@@ -1,4 +1,4 @@
-# Sistema de Control de Tráfico Global
+# Proyecto Universidad
 
 Este proyecto implementa un sistema utilizando los pilares de la Programación Orientada a Objetos en Java: Abstracción, Herencia, Encapsulamiento y Polimorfismo.
 
